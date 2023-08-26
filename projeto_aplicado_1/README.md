@@ -1,5 +1,8 @@
 # Análise dos Dados do Ensino Fundamental e Médio no Brasil em 2020
 
+## Organização: Ministério da Educação (MEC)
+## Área de atuação: Educação
+
 Este projeto tem como objetivo analisar os dados do ensino fundamental e médio no Brasil em 2020, a fim de verificar a existência de correlações entre as diferentes regiões do país e os resultados do Enem de 2021. Com base nessa análise, pretende-se propor melhorias nos indicadores educacionais.
 
 # Objetivos
