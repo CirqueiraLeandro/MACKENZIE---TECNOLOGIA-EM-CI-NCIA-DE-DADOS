@@ -42,6 +42,9 @@ Além disso, a falta de acesso à internet pode afetar a capacidade dos estudant
 Para atuar sobre esse problema, é importante que o governo invista em políticas públicas que visem a democratização do acesso à internet em todo o país, principalmente em regiões mais rurais, conforme vimos no nosso projeto. Além disso, é importante que as escolas e professores incentivem o uso da internet como uma ferramenta de aprendizado, disponibilizando materiais e recursos educacionais online para os estudantes.
 Também é importante que os estudantes tenham acesso a computadores e dispositivos móveis que permitam o acesso à internet, e que as escolas ofereçam treinamentos e capacitações para o uso dessas ferramentas. Dessa forma, será possível reduzir a desigualdade no acesso à internet e contribuir para a melhoria da performance dos estudantes no Enem.
 
+# Video de apresentação no YouTube
+https://www.youtube.com/watch?v=GyffvvBgulQ
+
 # Contribuição
 Membros do grupo:
 - Carolina Molinari Monteforte
